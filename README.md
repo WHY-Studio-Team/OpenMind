@@ -1,2 +1,2 @@
 # OpenMind
-An open source lightweight mind mapping tool (under planning)
+An open source lightweight mindmap editing tool (under planning)
